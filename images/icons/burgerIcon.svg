@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Top bar -->
+  <rect x="4" y="6" width="24" height="2" rx="1" fill="{{ThemeText}}" />
+  <!-- Middle bar -->
+  <rect x="4" y="14" width="24" height="2" rx="1" fill="{{ThemeText}}" />
+  <!-- Bottom bar -->
+  <rect x="4" y="22" width="24" height="2" rx="1" fill="{{ThemeText}}" />
+</svg>
